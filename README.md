@@ -1,3 +1,3 @@
-# punto5-estadistica
-punto 5 tarea de estadística ICESI ( nivelatorio estadística para la ciencia de datos)
-ok compañeros, este es el punto 5, espero sea de utilidad y siéntanse libres de modificarlo
+# Actividad 1 - Análisis exploratorio de datos
+punto 1, 2 y 3 tarea de Análisis exploratorio de datos ( nivelatorio estadística para la ciencia de datos)
+ok seguidor@s, estos son los puntos 1,2 y 3 espero sea de utilidad y siéntanse libres de modificarlo
